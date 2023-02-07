@@ -10,30 +10,28 @@ Thanks for stopping by!
 
 
 Languages:
-HTML5
 
-JavaScript
+javascript
 
-Python
+node.js
 
 Flask 
 
 SQL
 
-Node
+node.js
 
-Postgres
+postgres
 
 
 Tools:
-Visual Studio Code
 
-GitHub
+VS Code
 
+github
 
 
 Currently Studying:
-Node
 
 Express
 
